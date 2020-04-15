@@ -3,5 +3,6 @@
 <p align="center">
   <img src="Multi-Object-Tracking.gif" alt="Multi Object Tracking with Kalman-Filter" height="300" width="400" />
   <p align="center">Sample Multi Obejct Tracking output</p>
+  <p align="center">Run: python object_track.py to run the code</p>
 </p>
 
